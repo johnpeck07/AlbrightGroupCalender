@@ -200,3 +200,6 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = CalendarApp(root)
     root.mainloop()
+# Remove Events / modify 
+#Change the format of the date list
+#More of a calendar look UI
